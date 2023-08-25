@@ -23,7 +23,7 @@ After launching the file, everything will be good!
 
 💻 **Windows**
 
-First, you will need to download [Windows](https://github.com/NoahPrm/PasswordChecker/tree/main/MacOS) folder _(you can download all the project [here](https://github.com/NoahPrm/PasswordChecker/archive/refs/heads/main.zip))_
+First, you will need to download [Windows](https://github.com/NoahPrm/PasswordChecker/tree/main/Windows) folder _(you can download all the project [here](https://github.com/NoahPrm/PasswordChecker/archive/refs/heads/main.zip))_
 After downloading the project or the folder, you must run the [password_checker.bat](https://github.com/NoahPrm/PasswordChecker/blob/main/MacOS/password_checker.bat) file.
 After launching the file, everything will be good!
 

@@ -27,6 +27,10 @@ First, you will need to download [Windows](https://github.com/NoahPrm/PasswordCh
 After downloading the project or the folder, you must run the [password_checker.command](https://github.com/NoahPrm/PasswordChecker/blob/main/MacOS/password_checker.bat) file.
 After launching the file, everything will be good!
 
+📸 **Images**
+
+![image](https://cdn.discordapp.com/attachments/999040172681351179/1144742661501227108/Capture_decran_2023-08-25_a_23.17.31.png)
+
 ## Author
 
 👤 **Noah**

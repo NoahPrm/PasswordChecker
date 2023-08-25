@@ -13,9 +13,23 @@
 
 ### 🏠 [Homepage](https://github.com/NoahPrm/PasswordChecker)
 
+## Instructions
+
+💻 **MacOS**
+
+First, you will need to download [MacOS](https://github.com/NoahPrm/PasswordChecker/tree/main/MacOS) folder _(you can download all the project [here](https://github.com/NoahPrm/PasswordChecker/archive/refs/heads/main.zip))_
+After downloading the project or the folder, you must run the [password_checker.command](https://github.com/NoahPrm/PasswordChecker/blob/main/MacOS/password_checker.command) file.
+After launching the file, everything will be good!
+
+💻 **Windows**
+
+First, you will need to download [Windows](https://github.com/NoahPrm/PasswordChecker/tree/main/MacOS) folder _(you can download all the project [here](https://github.com/NoahPrm/PasswordChecker/archive/refs/heads/main.zip))_
+After downloading the project or the folder, you must run the [password_checker.command](https://github.com/NoahPrm/PasswordChecker/blob/main/MacOS/password_checker.bat) file.
+After launching the file, everything will be good!
+
 ## Author
 
-👤 **NoahPrm**
+👤 **Noah**
 
 * Website: https://noahprm.fr
 * Twitter: [@NoahPrm](https://twitter.com/NoahPrm)
